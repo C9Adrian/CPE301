@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_5\DA2_5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_5\DA2_5\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_5\DA2_5\Debug\DA2_5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2_5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2_5.map</FILE>
+  <FILE>DA2_5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_5\DA2_5\main.asm</FILE><LINE>15</LINE></start>
+  <ex0_isr><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_5\DA2_5\main.asm</FILE><LINE>30</LINE></ex0_isr>
+  <main><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_5\DA2_5\main.asm</FILE><LINE>28</LINE></main>
+  <delay_500ms><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_5\DA2_5\main.asm</FILE><LINE>38</LINE></delay_500ms>
+  <delay2><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_5\DA2_5\main.asm</FILE><LINE>40</LINE></delay2>
+  <delay1><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_5\DA2_5\main.asm</FILE><LINE>42</LINE></delay1>
+  <delay0><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_5\DA2_5\main.asm</FILE><LINE>44</LINE></delay0>
+ </LABELS>
+</ASSEMBLER_INFO>

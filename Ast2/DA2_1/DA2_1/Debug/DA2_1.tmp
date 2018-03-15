@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\Debug\DA2_1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2_1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2_1.map</FILE>
+  <FILE>DA2_1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\main.asm</FILE><LINE>17</LINE></main>
+  <loop><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\main.asm</FILE><LINE>27</LINE></loop>
+  <delay><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\main.asm</FILE><LINE>39</LINE></delay>
+  <againloop><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\main.asm</FILE><LINE>95</LINE></againloop>
+  <delay2><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\main.asm</FILE><LINE>48</LINE></delay2>
+  <negedge><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\main.asm</FILE><LINE>84</LINE></negedge>
+  <check_tog_5><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\main.asm</FILE><LINE>104</LINE></check_tog_5>
+  <check_tog_10><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\main.asm</FILE><LINE>114</LINE></check_tog_10>
+  <end><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\main.asm</FILE><LINE>90</LINE></end>
+  <again><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\main.asm</FILE><LINE>96</LINE></again>
+  <not5><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\main.asm</FILE><LINE>111</LINE></not5>
+  <not10><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2\DA2_1\main.asm</FILE><LINE>121</LINE></not10>
+ </LABELS>
+</ASSEMBLER_INFO>

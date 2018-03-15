@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\Debug\DA2_4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2_4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2_4.map</FILE>
+  <FILE>DA2_4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\main.asm</FILE><LINE>19</LINE></start>
+  <TIM0_OVF_ISR><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\main.asm</FILE><LINE>47</LINE></TIM0_OVF_ISR>
+  <main><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\main.asm</FILE><LINE>29</LINE></main>
+  <again><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\main.asm</FILE><LINE>44</LINE></again>
+ </LABELS>
+</ASSEMBLER_INFO>
