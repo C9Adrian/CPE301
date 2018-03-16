@@ -23,8 +23,8 @@
  </OUTPUT_FILES>
  <LABELS>
   <start><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\main.asm</FILE><LINE>19</LINE></start>
-  <TIM0_OVF_ISR><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\main.asm</FILE><LINE>47</LINE></TIM0_OVF_ISR>
-  <main><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\main.asm</FILE><LINE>29</LINE></main>
-  <again><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\main.asm</FILE><LINE>44</LINE></again>
+  <TIM0_OVF_ISR><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\main.asm</FILE><LINE>50</LINE></TIM0_OVF_ISR>
+  <main><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\main.asm</FILE><LINE>32</LINE></main>
+  <again><FILE>C:\Users\Adrian\Documents\Atmel Studio\7.0\CPE301\Ast2\DA2_4\DA2_4\main.asm</FILE><LINE>47</LINE></again>
  </LABELS>
 </ASSEMBLER_INFO>

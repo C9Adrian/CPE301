@@ -12,12 +12,15 @@
 
 .def temp = r20
 ; Replace with your application code
+
+;set memory
 start:
 	ldi temp, high(ramend)
 	out sph, temp
 	ldi temp, low(ramend)
 	out spl, temp
 
+	;set pins
 	sbi ddrb, 5
 	sbi portd, 2
 	ldi temp, 1<<INT0	;enable int0
@@ -27,6 +30,7 @@ start:
 
 main:	rjmp main
 
+;interrupt sub
 ex0_isr:
 	ldi temp, 1<<INTF0
 	out eifr, temp

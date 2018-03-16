@@ -12,18 +12,21 @@
 .org 0x0
 	rjmp start
 .org 0x20 
-	rjmp TIM0_OVF_ISR
+	rjmp TIM0_OVF_ISR  ;ISR for overflow interupt
 
 .org 0x100
 
 start:
-    ldi temp, high(ramend)
+
+	;set memeory
+    ldi temp, high(ramend)	
 	out sph, r20
 	ldi temp, low(ramend)
 	out spl, r20
 
+	;set portd to output
 	ldi r16, 0xFF
-	out DDRD, r16
+	out DDRB, r16
 
 
 main:
@@ -45,5 +48,7 @@ main:
 		rjmp again
 
 TIM0_OVF_ISR:
-	sbi portb, 5 
+	in temp, PORTB;  get value of portb 
+	EOR temp, ;invert value
+	out PORTB, temp	;output new value
 	reti

@@ -1,9 +1,11 @@
 ;
-; DA2.asm
+; DA2_3.asm
 ;
 ; Created: 2/26/2018 11:30:48 AM
 ; Author : Adrian
 ;
+;delay with timer0
+;16MHz
 
 .CSEG
 

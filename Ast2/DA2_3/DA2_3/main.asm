@@ -1,5 +1,5 @@
 ;
-; DA2_3.asm
+; DA2_1.asm
 ;
 ; Created: 3/6/2018 6:26:20 PM
 ; Author : Adrian
@@ -7,6 +7,7 @@
 .include "M328PDEF.INC"
 
 ; Replace with your application code
+; This delay is selfmade
 
 ldi r16, high(ramend)
 out sph, r16
