@@ -6,7 +6,7 @@
  */ 
 
 #ifndef F_CPU
-#define F_CPU 16000000
+#define F_CPU 16000000UL
 #endif
 
 #define BAUD 9600
@@ -29,10 +29,11 @@ int main(void)
 	//adc_init();
 	//USART_init();
 	usart0_init_();					//initialize usart
-	adc_init();						//initialize adc
+	//adc_init();						//initialize adc
 	
 	DDRC = 0b00000000;
 	while(1){
+			printm("HI\r\n");
 			_delay_ms(1000);
 	}
 }
